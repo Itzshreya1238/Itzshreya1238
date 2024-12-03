@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Itz_Shreya_
 - 🌱 I’m currently learning Java, C,C++ 
-- 💞️ I’m looking to collaborate with Android, Factbook, Amazon 
-- 📫 How to reach me @sshreya1238@gmail.com 
+  @sshreya1238@gmail.com 
 - 😄 
 - ⚡ 
 
